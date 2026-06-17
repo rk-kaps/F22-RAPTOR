@@ -1,0 +1,13 @@
+Item No.,Component,Specification,Quantity,Price (INR)
+1,Transmitter (Radio),"FlySky-compatible, Mode 2",1,5000
+2,Receiver (RX),FS-iA6B,1,5000
+3,LiPo Battery,"3S, 2200mAh, 11.1V, 30C",1,1350
+4,ESC (Electronic Speed Controller),"30A, 2-4S LiPo, BEC 5V/2A",1,300
+5,BLDC Motor,"2212, 1000KV",1,300
+6,Propeller,Compatible with 2212 1000KV motor,1,50
+7,Servo 1 (Elevator),Standard analog servo,1,90
+8,Servo 2 (Rudder),Standard analog servo,1,90
+9,Servo Wire / Connector,"3-wire: Signal (Orange/Yellow), +5V (Red), GND (Brown/Black)",3,
+10,Battery Connector,XT60 (or equivalent),1,70
+11,Wiring Harness,"16-22 AWG, red/black",As needed,
+12,Foam Board,"Standard RC airframe foam board",5,348
